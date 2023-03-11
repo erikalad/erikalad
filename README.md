@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erika</h1>
+### Sobre Mi
 <div align="center">Soy full stack developer, apasionada por React! en estos momentos realizo proyectos freelance. 👨‍💻🚀</div>  
   
 
@@ -52,6 +53,7 @@
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
 
+</td>
 
 <br/>  
 
@@ -75,5 +77,5 @@
 
 <br/>  
 
-
+----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
