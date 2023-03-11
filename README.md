@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Erika</h1>
+<h1 align="center">Hola 👋, soy Erika</h1>
 
 <br/>
-### Sobre Mi
-<div align="center">Soy full stack developer, apasionada por React! en estos momentos realizo proyectos freelance. 👨‍💻🚀</div>  
-  
+<h4 align="center">Soy full stack developer, apasionada por React! en estos momentos realizo proyectos freelance. 👨‍💻🚀</h4>  
 
-- 🔭 Me encuentro trabajando en un proyecto de novedades para un call center, donde van a poder agregar publicaciones sobre, novedades, procedimientos de cada área, etc.  
+
+## Sobre Mi
+
+
+ - 🔭 Me encuentro trabajando en un proyecto de novedades para un call center, donde van a poder agregar publicaciones sobre, novedades, procedimientos de cada área, etc.  
   
 
 - 🌱 Estoy haciendo cursos de Platzi sobre React Native y Figma.  
@@ -15,12 +17,12 @@
   
 
 - ⚡ Me apasiona el Frontend, por lo que me encuentro en constante aprendizaje de herramientas y librerias para una mejor visualización de páginas.  
-  
+
 
 <br/>  
 
 
-## My Skill Set  
+## Mis Skills  
 <table><tr><td valign="top" width="33%">
 
 
@@ -58,9 +60,9 @@
 </td>
 
 <br/>  
+</table>
 
-
-## Connect with me  
+## Contactame 
 <div align="center">
 <a href="https://github.com/erikalad" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -80,4 +82,3 @@
 <br/>  
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
