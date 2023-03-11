@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erika</h1>
-### <div align="center">Soy full stack developer, apasionada por React! en estos momentos realizo proyectos freelance. 👨‍💻🚀</div>  
+<div align="center">Soy full stack developer, apasionada por React! en estos momentos realizo proyectos freelance. 👨‍💻🚀</div>  
   
 
 - 🔭 Me encuentro trabajando en un proyecto de novedades para un call center, donde van a poder agregar publicaciones sobre, novedades, procedimientos de cada área, etc.  
@@ -18,7 +18,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -38,7 +38,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -52,11 +52,6 @@
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
