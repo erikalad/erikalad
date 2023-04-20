@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Erika</h1>
 
 <br/>
-<h4 align="center">Soy full stack developer, apasionada por React! en estos momentos realizo proyectos freelance. 👨‍💻🚀</h4>  
+<h4 align="center">Soy full stack developer, apasionada por React! en estos momentos realizo proyectos freelance y trabajo como FrontEnd en QSocialNow 👨‍💻🚀</h4>  
 
 
 ## Sobre Mi
