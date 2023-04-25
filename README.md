@@ -23,13 +23,12 @@
 
 
 ## Mis Skills  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
 ### Frontend  
 <div align="center"> 
-<table><tr><td valign="top" width="50%">
 
 <a href="https://ant.design/" target="_blank"><img style="margin: 10px" src="https://www.bookmarks.design/media/image/ant-design.jpg" alt="antd" height="100" /></a> 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
