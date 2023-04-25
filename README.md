@@ -21,14 +21,12 @@
 
 <br/>  
 
-
-## Mis Skills  
-<table><tr><td valign="top" width="100%">
-
+## Mis Skills
+<table><tr><td valign="top" width="33%">
 
 
 ### Frontend  
-<div align="center"> 
+<div align="center">  
 
 <a href="https://ant.design/" target="_blank"><img style="margin: 10px" src="https://www.bookmarks.design/media/image/ant-design.jpg" alt="antd" height="100" /></a> 
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -47,9 +45,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
  <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://d3js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" /></a>  
+</div>
 
-
-</td><td valign="top" width="50%">
+</td><td valign="top" width="33%">
 
 
 
@@ -63,14 +61,16 @@
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 </div>
 
-</td>
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
 
 <br/>  
 
-</table>
 
-
-## Contactame 
+## Contactame
 <div align="center">
 <a href="https://github.com/erikalad" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
